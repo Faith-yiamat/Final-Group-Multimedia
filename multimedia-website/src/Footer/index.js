@@ -2,7 +2,7 @@ import './index.css';
 function Footer(){
     return(
         <div>
-            <div>
+            <div id = "main">
             <img src="/Imagefol/DeWatermark.png" alt="" className='mainImage'/>
             <div className="text-on-image">
           <h3 className='pod'>New PodCast</h3>

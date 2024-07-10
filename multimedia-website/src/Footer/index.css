@@ -1,5 +1,7 @@
 .mainImage{
     width: 100%;
+    height: 400px;
+    object-fit: cover;
 }
 .portfolio{
     font-size: x-large;
@@ -31,13 +33,12 @@ button{
     margin-bottom: 11%;
 }
 .resumes{
-    margin-top: 10%;
+    margin-top: 5%;
     margin-bottom: 7%;
 }
-
 .text-on-image {
     position: absolute;
-    top: 50%; /* Adjust as needed */
+    top: 20%; /* Adjust as needed */
     left: 50%; /* Adjust as needed */
     transform: translate(-50%, -50%); 
     margin-left: 20%;
@@ -56,6 +57,8 @@ button{
 @media screen and (min-width:280px) and (max-width:400px) {
     .mainImage{
         width: 100%;
+        height: 210px;
+        object-fit: cover;
     }
    .portfolio{
         font-size: x-large;
@@ -77,14 +80,14 @@ button{
     }
     .multimedia{
         font-style: italic;
-        margin-bottom: 20%;
+        margin-bottom: 8%;
         
     }
     .footertext{
         display: flex;
         flex-direction: row;
         gap: 50px;
-        margin-bottom: 11%;
+        margin-bottom: 2%;
         margin-left: 17%;
     }
     .resumes{
@@ -96,7 +99,7 @@ button{
     
     .text-on-image {
         position: absolute;
-        top: 20%; 
+        top: 14%; 
         left: 50%; 
         transform: translate(-50%, -50%); 
         margin-left: 20%;
@@ -118,6 +121,8 @@ button{
 @media screen and (width:280px) {
     .mainImage{
         width: 100%;
+        height: 160px;
+        object-fit: cover;
     }
    .portfolio{
         font-size: x-large;
@@ -128,6 +133,7 @@ button{
         background-color: rgb(30, 140, 243);
         padding: 5px 25px;
         color: white;
+        border: none;
     }
     .footer{
         display: flex;
@@ -139,14 +145,14 @@ button{
     }
     .multimedia{
         font-style: italic;
-        margin-bottom: 20%;
+        margin-bottom: 5%;
         
     }
     .footertext{
         display: flex;
         flex-direction: row;
         gap: 50px;
-        margin-bottom: 11%;
+        margin-bottom: 2%;
         margin-left: 8%;
     }
     .resumes{
@@ -158,7 +164,7 @@ button{
     
     .text-on-image {
         position: absolute;
-        top: 20%; 
+        top: 13%; 
         left: 50%; 
         transform: translate(-50%, -50%); 
         margin-left: 20%;
@@ -181,6 +187,8 @@ button{
 @media screen and (min-width:401px) and (max-width:600px) {
     .mainImage{
         width: 100%;
+        height: 220px;
+        object-fit: cover;
     }
    .portfolio{
         font-size: x-large;
@@ -202,14 +210,14 @@ button{
     }
     .multimedia{
         font-style: italic;
-        margin-bottom: 20%;
+        margin-bottom: 5%;
         
     }
     .footertext{
         display: flex;
         flex-direction: row;
         gap: 50px;
-        margin-bottom: 11%;
+        margin-bottom: 2%;
         margin-left: 17%;
     }
     .resumes{
@@ -221,7 +229,7 @@ button{
     
     .text-on-image {
         position: absolute;
-        top: 20%; 
+        top: 12%; 
         left: 50%; 
         transform: translate(-50%, -50%); 
         margin-left: 20%;
