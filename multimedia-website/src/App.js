@@ -16,9 +16,9 @@ function App() {
     <div className="App">
        <Navbar/>
       <LandingPage/>
-      <BlogPost/>
       <Video/>
       <Footer/>
+      <BlogPost/>
       <CaseStudies/>
       
       {/* <Route path=''/> */}
