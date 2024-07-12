@@ -35,7 +35,7 @@
   padding: 0px 30px;
 }
 .nav-links a:hover {
-  background: white;
+  background: rgb(243, 131, 131);
   color: black;
 }
 .logo {

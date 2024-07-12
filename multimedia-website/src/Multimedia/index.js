@@ -1,4 +1,4 @@
-import './multimedia.css';
+import './index.css';
 
 function BlogPost(){
     return(
