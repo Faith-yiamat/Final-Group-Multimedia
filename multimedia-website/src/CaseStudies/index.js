@@ -1,4 +1,4 @@
-import './case.css';
+import './index.css';
 
 function CaseStudies(){
     return(

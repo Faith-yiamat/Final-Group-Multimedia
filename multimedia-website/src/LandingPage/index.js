@@ -38,16 +38,7 @@ function LandingPage(){
                         </p>
 
                         </div>
-                        <div className='play-video'>
-                            <button className='play-button'>
-                                <span className='play-icon'>
-                                    <img src='./Images/playbutton.png' alt='play-button'/>
-                               </span>
-                               <span className='play-text'>
-                                   Play
-                               </span>
-                            </button>
-                        </div>
+                   
 
                     </section>
 
