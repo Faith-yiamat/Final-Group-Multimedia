@@ -35,10 +35,11 @@ button{
 .resumes{
     margin-top: 5%;
     margin-bottom: 7%;
+    /* font-size: medium; */
 }
 .text-on-image {
     position: absolute;
-    top: 20%; /* Adjust as needed */
+    top: 270%; /* Adjust as needed */
     left: 50%; /* Adjust as needed */
     transform: translate(-50%, -50%); 
     margin-left: 20%;
@@ -53,6 +54,7 @@ button{
 }
 .portfolio{
     margin-bottom: 7%;
+    font-size: larger;
 }
 @media screen and (min-width:280px) and (max-width:400px) {
     .mainImage{
@@ -99,7 +101,7 @@ button{
     
     .text-on-image {
         position: absolute;
-        top: 14%; 
+        top: 200%; 
         left: 50%; 
         transform: translate(-50%, -50%); 
         margin-left: 20%;
@@ -164,7 +166,7 @@ button{
     
     .text-on-image {
         position: absolute;
-        top: 13%; 
+        top:250%;
         left: 50%; 
         transform: translate(-50%, -50%); 
         margin-left: 20%;
@@ -229,7 +231,7 @@ button{
     
     .text-on-image {
         position: absolute;
-        top: 12%; 
+        top: 250%; 
         left: 50%; 
         transform: translate(-50%, -50%); 
         margin-left: 20%;
@@ -291,7 +293,7 @@ button{
     
     .text-on-image {
         position: absolute;
-        top: 20%; 
+        top: 230%; 
         left: 50%; 
         transform: translate(-50%, -50%); 
         margin-left: 20%;
